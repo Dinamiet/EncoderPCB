@@ -299,8 +299,8 @@
 			(uuid "9973fd60-0bac-4384-8a8b-cb66d5b3d8fd")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 4.08 180)
-			(layer "F.Fab")
+			(at 0 -2.42 180)
+			(layer "F.SilkS")
 			(uuid "543c0e9e-d1f2-493b-abf9-76c88bde1aa6")
 			(effects
 				(font
@@ -396,7 +396,7 @@
 			)
 		)
 		(property "Value" "RotaryEncoder_Switch_MP"
-			(at 7.5 10.4 -0)
+			(at 7.5 10.4 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6a7bc086-d47c-4b65-9f22-5e23dfdac638")
@@ -966,7 +966,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "1d303a08-2f5e-42a9-9fa6-3ec96921b6d3")
 			(effects
 				(font
@@ -1172,7 +1172,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "120439ac-1839-44a9-8422-4afb88d4c768")
 			(effects
 				(font
@@ -1378,7 +1378,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "4ea194fa-a740-451e-a101-f10c746d8bb8")
 			(effects
 				(font
@@ -1584,7 +1584,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "789ee39b-19a0-4bbd-af72-7ba48d0bedcd")
 			(effects
 				(font
@@ -1790,7 +1790,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "6d98275d-31eb-4080-b14c-21a2acb7dbb3")
 			(effects
 				(font
@@ -1996,7 +1996,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "9d27e0b6-0645-450e-b198-a6ee0f766b52")
 			(effects
 				(font
@@ -2202,7 +2202,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "c3a544ae-1015-49c7-bc9e-41be31094b0e")
 			(effects
 				(font
@@ -2421,7 +2421,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "7d58bdcb-5373-4f48-a8af-740aed095f91")
 			(effects
 				(font
@@ -2683,7 +2683,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "8e73369c-0fe9-4cfd-8c12-c6b916d3ba87")
 			(effects
 				(font
@@ -2889,7 +2889,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "962e5fd7-e896-4c23-9075-fd9cab57e6c6")
 			(effects
 				(font
