@@ -1886,16 +1886,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 91.44) (xy 137.16 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15cf8f01-cbc1-41a9-b80e-9db19146a6d2")
-	)
-	(wire
-		(pts
 			(xy 36.83 88.9) (xy 48.26 88.9)
 		)
 		(stroke
@@ -1926,7 +1916,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 91.44) (xy 137.16 91.44)
+			(xy 135.89 91.44) (xy 139.7 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2043,6 +2033,16 @@
 			(type default)
 		)
 		(uuid "4217fd57-d38d-479c-a2d9-d5852c4af32c")
+	)
+	(wire
+		(pts
+			(xy 142.24 97.79) (xy 142.24 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42320b3d-570f-456b-ba44-c814d91ee40d")
 	)
 	(wire
 		(pts
@@ -2376,7 +2376,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 97.79) (xy 128.27 97.79)
+			(xy 128.27 97.79) (xy 142.24 97.79)
 		)
 		(stroke
 			(width 0)
@@ -2554,16 +2554,6 @@
 		)
 		(uuid "9ee1abe2-bb96-4711-a4e5-0cfae84328e0")
 	)
-	(label "BTN"
-		(at 142.24 86.36 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a3b94de7-8096-42fe-88e5-a25d0d195e9d")
-	)
 	(label "Debounced.A"
 		(at 31.75 91.44 0)
 		(effects
@@ -2604,6 +2594,16 @@
 		)
 		(uuid "cfdce847-53da-4b6e-92b7-4ccae8ab3147")
 	)
+	(label "BTN"
+		(at 139.7 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d1cf4404-f61a-4b4b-bec7-bdc29ca55c89")
+	)
 	(label "A"
 		(at 175.26 95.25 0)
 		(effects
@@ -2619,7 +2619,7 @@
 		(at 182.88 120.65 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "018c80d1-ae97-45b0-9f54-b21a7715385e")
@@ -2686,7 +2686,7 @@
 		(at 182.88 95.25 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "0d1fae41-9271-47da-adf6-fd2ddcbb3fa5")
@@ -2840,7 +2840,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SSOP-8_3.9x5.05mm_P1.27mm"
+		(property "Footprint" "Package_SO:VSSOP-8_2.3x2mm_P0.5mm"
 			(at 203.2 95.25 0)
 			(effects
 				(font
@@ -2859,6 +2859,15 @@
 			)
 		)
 		(property "Description" "Triple NOT Gate Schmitt, Low-Voltage CMOS"
+			(at 204.47 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C98856"
 			(at 204.47 95.25 0)
 			(effects
 				(font
@@ -2905,7 +2914,7 @@
 		(at 67.31 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3023,6 +3032,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C470596"
+			(at 128.27 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "S1"
 			(uuid "7f122353-3df2-49a0-a7fe-4a692131df92")
 		)
@@ -3076,7 +3094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SSOP-8_3.9x5.05mm_P1.27mm"
+		(property "Footprint" "Package_SO:VSSOP-8_2.3x2mm_P0.5mm"
 			(at 203.2 120.65 0)
 			(effects
 				(font
@@ -3095,6 +3113,15 @@
 			)
 		)
 		(property "Description" "Triple NOT Gate Schmitt, Low-Voltage CMOS"
+			(at 204.47 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C98856"
 			(at 204.47 120.65 0)
 			(effects
 				(font
@@ -3164,7 +3191,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SSOP-8_3.9x5.05mm_P1.27mm"
+		(property "Footprint" "Package_SO:VSSOP-8_2.3x2mm_P0.5mm"
 			(at 81.28 40.64 0)
 			(effects
 				(font
@@ -3183,6 +3210,15 @@
 			)
 		)
 		(property "Description" "Triple NOT Gate Schmitt, Low-Voltage CMOS"
+			(at 82.55 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C98856"
 			(at 82.55 40.64 0)
 			(effects
 				(font
@@ -3229,7 +3265,7 @@
 		(at 177.8 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3493,7 +3529,7 @@
 		(at 176.53 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3629,7 +3665,7 @@
 		(at 187.96 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "7da9a5f0-1189-4b8b-a9fa-fe50cc99b53d")
@@ -3698,7 +3734,7 @@
 		(at 181.61 69.85 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "8515ceaa-4c3f-465a-bdd1-af0bff7d96b8")
@@ -3984,7 +4020,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SSOP-8_3.9x5.05mm_P1.27mm"
+		(property "Footprint" "Package_SO:VSSOP-8_2.3x2mm_P0.5mm"
 			(at 201.93 69.85 0)
 			(effects
 				(font
@@ -4003,6 +4039,15 @@
 			)
 		)
 		(property "Description" "Triple NOT Gate Schmitt, Low-Voltage CMOS"
+			(at 203.2 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C98856"
 			(at 203.2 69.85 0)
 			(effects
 				(font
@@ -4245,7 +4290,7 @@
 		(at 187.96 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "c840e386-4f48-4643-9a01-52a94394db2c")
@@ -4642,7 +4687,7 @@
 		(at 186.69 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "ee06cbcd-bba7-4f85-b573-c4758bf40b28")
@@ -4711,7 +4756,7 @@
 		(at 177.8 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4847,7 +4892,7 @@
 		(at 26.67 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
