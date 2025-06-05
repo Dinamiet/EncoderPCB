@@ -109,7 +109,7 @@
 		)
 		(property "Value" "MountingHole"
 			(at 0 2.95 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "390f34bd-b12a-45e3-98ac-7f0281a8b12a")
 			(effects
@@ -121,7 +121,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "10ea8547-c466-4182-b3f0-bba2d37a2b15")
 			(effects
@@ -133,7 +133,7 @@
 		)
 		(property "Description" "Mounting Hole without connection"
 			(at 0 0 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "30427337-28d0-4531-96ff-22ec66563dac")
 			(effects
@@ -172,7 +172,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "b4ecc02e-7dbd-4354-805f-75887d7395eb")
 			(effects
 				(font
@@ -211,7 +211,7 @@
 		)
 		(property "Value" "RotaryEncoder_Switch_MP"
 			(at 7.5 10.4 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "068f8c49-b608-4e29-8aa6-1455d8b9db8e")
 			(effects
@@ -224,7 +224,7 @@
 		(property "Datasheet" ""
 			(at 0 0 0)
 			(unlocked yes)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "1cd75c5f-757e-4a17-bd21-a379f6506ea3")
 			(effects
@@ -237,7 +237,7 @@
 		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch and MP Pin"
 			(at 0 0 0)
 			(unlocked yes)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "0ff61155-0cac-4150-8906-b398db341285")
 			(effects
@@ -250,7 +250,7 @@
 		(property "LCSC" "C470596"
 			(at 0 0 0)
 			(unlocked yes)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "700a8eb8-971b-4318-a5cf-b0b4a3760107")
 			(effects
@@ -647,7 +647,7 @@
 		)
 		(property "Value" "MountingHole"
 			(at 0 2.95 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "b5576a16-81ca-438f-a93c-969ea1ae2d0d")
 			(effects
@@ -659,7 +659,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "1faad9c3-0636-4a79-87b2-fa642cda86f7")
 			(effects
@@ -671,7 +671,7 @@
 		)
 		(property "Description" "Mounting Hole without connection"
 			(at 0 0 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "1204c19c-e36c-480a-901c-288f65f8210a")
 			(effects
@@ -710,7 +710,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "7e2fad0a-69d8-4b5f-baa4-1cb277276a84")
 			(effects
 				(font
@@ -748,7 +748,7 @@
 		)
 		(property "Value" "MountingHole"
 			(at 0 2.95 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "fac7aaec-499f-41a7-bf50-d63b9e715472")
 			(effects
@@ -760,7 +760,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "5ad79aeb-4a29-4f9e-adac-2ed017efde95")
 			(effects
@@ -772,7 +772,7 @@
 		)
 		(property "Description" "Mounting Hole without connection"
 			(at 0 0 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "0eee84ea-fa2b-4e19-b935-511030382a66")
 			(effects
@@ -811,7 +811,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "32fb3925-1ac1-41dc-8290-93524ac97e49")
 			(effects
 				(font
@@ -849,7 +849,7 @@
 		)
 		(property "Value" "Conn_01x05_Pin"
 			(at 0 12.54 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a5328465-cc26-474d-bac8-b37c90db3e0f")
 			(effects
@@ -861,7 +861,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "94b4e93a-d294-400d-937c-a46e652fa56a")
 			(effects
@@ -873,7 +873,7 @@
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated"
 			(at 0 0 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "13d905b9-6afc-4de4-9372-f68151c72fec")
 			(effects
@@ -1038,17 +1038,6 @@
 			(layer "F.Fab")
 			(uuid "ee9c36c3-a5c6-4796-9fb1-8ce616f23a5c")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 5.08 90)
-			(layer "F.Fab")
-			(uuid "1434ea8b-4902-4afc-8dbb-1d74b07d0389")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole rect
 			(at 0 0)
 			(size 1.7 1.7)
@@ -1137,7 +1126,7 @@
 		)
 		(property "Value" "MountingHole"
 			(at 0 2.95 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "0d324f19-7a05-4f5f-b75d-6d397af2f2ef")
 			(effects
@@ -1149,7 +1138,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "d75ee03d-4588-4ea9-9c8d-d62d0764b69d")
 			(effects
@@ -1161,7 +1150,7 @@
 		)
 		(property "Description" "Mounting Hole without connection"
 			(at 0 0 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(hide yes)
 			(uuid "5b6a65f0-f796-4d13-859b-4e5b6906f195")
 			(effects
@@ -1200,7 +1189,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "61e616e4-38c5-4b05-9e8f-88eeae54e602")
 			(effects
 				(font
@@ -1239,7 +1228,7 @@
 		)
 		(property "Value" "100n"
 			(at 0 -1.85 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "46e1c7c0-07d7-4ec4-ab6a-7c74d702fcc3")
 			(effects
@@ -1252,7 +1241,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "90800210-8fd0-4be9-9229-5f888003b515")
 			(effects
@@ -1265,7 +1254,7 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "2c73189c-2199-4756-b4e0-6f9628d5a025")
 			(effects
@@ -1383,7 +1372,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.Mask")
+			(layer "B.SilkS")
 			(uuid "70c17169-65da-4c04-b979-8c34102609d8")
 			(effects
 				(font
@@ -1445,7 +1434,8 @@
 		)
 		(property "Value" "100n"
 			(at 0 -1.85 90)
-			(layer "B.Fab")
+			(layer "B.SilkS")
+			(hide yes)
 			(uuid "7971dd5b-eef1-4143-aac9-b660e18d9083")
 			(effects
 				(font
@@ -1457,7 +1447,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 90)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "bf036f2d-a905-4414-9598-9432405f6a6a")
 			(effects
@@ -1470,7 +1460,7 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 0 0 90)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "375d16c5-4377-48b4-a17d-37e035557ef5")
 			(effects
@@ -1588,7 +1578,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "cd36e8fe-6bf5-4048-8b91-6c85c9cbda03")
 			(effects
 				(font
@@ -1650,7 +1640,7 @@
 		)
 		(property "Value" "100n"
 			(at 0 -1.85 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "f85a847b-72d5-48b8-bf48-18b43cd0a1d9")
 			(effects
@@ -1663,7 +1653,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "bbad328e-51b3-456e-ac18-3ac2391204e0")
 			(effects
@@ -1676,7 +1666,7 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "3b62a15f-449a-4016-ab4f-8cb1f35b3464")
 			(effects
@@ -1794,7 +1784,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "a054da5b-2a52-4663-9e8b-4f9a23fde565")
 			(effects
 				(font
@@ -1857,7 +1847,7 @@
 		)
 		(property "Value" "74LVC3G14"
 			(at 0 -1.95 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "699fe6ac-902f-457b-8b6c-f07a8473d16f")
 			(effects
@@ -1870,7 +1860,7 @@
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc3g14.pdf"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "f02771af-e34b-4965-bf39-ed048ef96edf")
 			(effects
@@ -1883,7 +1873,7 @@
 		)
 		(property "Description" "Triple NOT Gate Schmitt, Low-Voltage CMOS"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "ddab914c-c61a-4e01-b86f-f67f1f535955")
 			(effects
@@ -1897,7 +1887,7 @@
 		(property "LCSC" "C98856"
 			(at 0 0 180)
 			(unlocked yes)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "77a24b79-c46b-498e-8a54-d977ae394fe1")
 			(effects
@@ -2137,7 +2127,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "e926b17b-99e7-499b-be26-d152104d5340")
 			(effects
 				(font
@@ -2255,7 +2245,7 @@
 		)
 		(property "Value" "10k"
 			(at 0 -1.83 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "20dbb6eb-b772-411b-9c1d-0bb20f5968b3")
 			(effects
@@ -2268,7 +2258,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "72b1ae38-8c12-47ed-80b7-744fc3af9bd2")
 			(effects
@@ -2281,7 +2271,7 @@
 		)
 		(property "Description" "Resistor"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "6ff7dd18-55e6-4293-a562-39053745af12")
 			(effects
@@ -2399,7 +2389,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "8a8ec7f5-887f-4d66-95cf-ec6b236ab049")
 			(effects
 				(font
@@ -2461,7 +2451,8 @@
 		)
 		(property "Value" "10k"
 			(at 0 -1.83 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
+			(hide yes)
 			(uuid "a9b0d91a-5e35-42b1-9cd5-8cce7c00da52")
 			(effects
 				(font
@@ -2473,7 +2464,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "6b6629a3-4b94-424f-b416-24d7c9ac2a83")
 			(effects
@@ -2486,7 +2477,7 @@
 		)
 		(property "Description" "Resistor"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "a69fa182-deb4-4c9e-a5cf-025108fb54ef")
 			(effects
@@ -2604,7 +2595,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "e2736d11-f4d8-4496-807d-6c1bc015d783")
 			(effects
 				(font
@@ -2666,7 +2657,8 @@
 		)
 		(property "Value" "10k"
 			(at 0 -1.83 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
+			(hide yes)
 			(uuid "61699d91-2d9e-443e-9377-e2bf62022ee2")
 			(effects
 				(font
@@ -2678,7 +2670,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "0efe7e44-bf86-403a-abad-e67ded837d1c")
 			(effects
@@ -2691,7 +2683,7 @@
 		)
 		(property "Description" "Resistor"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "bb4bacec-9a88-4f1f-8c2c-944fa29fb12e")
 			(effects
@@ -2809,7 +2801,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "097497a3-8f2a-49f8-9580-af029a21d82d")
 			(effects
 				(font
@@ -2871,7 +2863,8 @@
 		)
 		(property "Value" "10k"
 			(at 0 -1.83 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
+			(hide yes)
 			(uuid "451e863b-f353-4141-8c08-fe223ff2d11f")
 			(effects
 				(font
@@ -2883,7 +2876,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "308ba6f2-8359-4eba-bb31-e33e2957b29e")
 			(effects
@@ -2896,7 +2889,7 @@
 		)
 		(property "Description" "Resistor"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "1f91b409-5249-47a6-89a1-6b219dc79463")
 			(effects
@@ -3014,7 +3007,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "0b5a3a9b-1666-4f06-93b7-481f0522433b")
 			(effects
 				(font
@@ -3076,7 +3069,7 @@
 		)
 		(property "Value" "100n"
 			(at 0 -1.85 90)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "d623231e-f645-4ee4-8870-a5d80b645450")
 			(effects
@@ -3089,7 +3082,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 90)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "29f73d11-7105-4c82-8690-8d44f9bd0256")
 			(effects
@@ -3102,7 +3095,7 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 0 0 90)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "49be5ae0-9f93-4c76-a575-e49b603f10f5")
 			(effects
@@ -3220,7 +3213,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "f4b49bf0-444e-464c-ab22-43db648c44f9")
 			(effects
 				(font
@@ -3282,7 +3275,7 @@
 		)
 		(property "Value" "10k"
 			(at 0 -1.83 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "64b9032b-1bbc-469b-bc26-58b042f7edc8")
 			(effects
@@ -3295,7 +3288,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "c54da616-e597-48ee-b46e-fd1389794b6a")
 			(effects
@@ -3308,7 +3301,7 @@
 		)
 		(property "Description" "Resistor"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "5d7bfcfc-261f-421e-b4f2-7f7c300f8faa")
 			(effects
@@ -3426,7 +3419,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "a5898cb5-5626-409d-ab3e-649cf9be5c7a")
 			(effects
 				(font
@@ -3488,7 +3481,7 @@
 		)
 		(property "Value" "10k"
 			(at 0 -1.83 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "1244849c-6eea-45a1-843a-9c9550e77ecd")
 			(effects
@@ -3501,7 +3494,7 @@
 		)
 		(property "Datasheet" ""
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "6005a3a1-f216-4e75-96ab-91076649232e")
 			(effects
@@ -3514,7 +3507,7 @@
 		)
 		(property "Description" "Resistor"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "982d9d49-ab77-4ab0-b1ca-01a1069526ac")
 			(effects
@@ -3632,7 +3625,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "5e94eb9e-8897-4318-8180-1779813ebf8b")
 			(effects
 				(font
@@ -3683,6 +3676,71 @@
 		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "8aa52007-f325-465c-bb87-b3c9239b2ebc")
+	)
+	(gr_text "BTN"
+		(at 161.75 112.575 90)
+		(layer "F.SilkS")
+		(uuid "0494cbf2-b654-4c4e-a95d-ba1710c0a247")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "A"
+		(at 161.75 109.325 90)
+		(layer "F.SilkS")
+		(uuid "5f2bf8b3-7953-49d9-9f10-4c22894f19c7")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "B"
+		(at 161.75 114.575 90)
+		(layer "F.SilkS")
+		(uuid "7f1ec6f0-1d84-44b2-ba24-2361a7a18b61")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 161.75 117.825 90)
+		(layer "F.SilkS")
+		(uuid "9c09ff6f-431b-4438-b9b2-8ada58e01bed")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "VCC"
+		(at 161.75 107.575 90)
+		(layer "F.SilkS")
+		(uuid "d1d78d71-467d-481e-b66e-b2af046fe2cb")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 153.193508 111)
